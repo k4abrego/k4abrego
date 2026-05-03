@@ -2,7 +2,7 @@
 
 #  About Me:
 - I'm a CS student 👩🏻‍💻
-- Full Stack Developer at Kidtales 🧩
+- Full Stack Dev at Kidtales 🧩
 - I'm currently learning more about development, programming languages, 
 and delving deeper into the world of technology 🖥️
 - I also love reading, movies, The Beatles, rock music, and baking 🎸
